@@ -1,0 +1,71 @@
+.navbar {
+    background-color: rgb(236, 233, 233) !important;
+}
+.nav-link {
+    font-weight: bold;
+}
+.fa-truck, .fa-phone {
+    font-size: 50px;
+    margin-right: 10px;
+}
+.card1,.card2,.card3 {
+    display: flex;
+    width: 30%;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px grey;
+}
+.maincard  { 
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row !important; 
+    justify-content: space-around;
+    align-items: center;
+
+}
+.card-text {
+    font-weight: bold;
+}
+.NewArrivals {
+margin-top: 50px;
+}
+.card-title {
+    font-weight: bold;
+
+}
+.card {
+    height: auto;
+    width: auto;
+
+}
+.heading {
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    margin: 40px;
+
+}
+.heading > h1 {
+    text-shadow: 1px 2px 1px black;
+}
+#myFooter {
+	background-color: #373a48;
+	color:white;
+}
+
+#myFooter .footer-copyright{
+	background-color: #383737;
+	padding-top:3px;
+	padding-bottom:3px;
+	text-align: center;
+}
+
+#myFooter .footer-copyright p{
+	margin:10px;
+	color: #ccc;
+}
+
+.contactus {
+    color: rgb(0, 136, 255);
+    border-inline: inherit;
+}
